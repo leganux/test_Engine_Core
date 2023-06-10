@@ -1,0 +1,19 @@
+{
+  "name": "ej2.singleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "install": "node install.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "poly-crypto": "^2.1.1",
+    "sequelize": "^6.32.0",
+    "sqlite3": "^5.1.6",
+    "unpc": "^1.2.0"
+  }
+}
